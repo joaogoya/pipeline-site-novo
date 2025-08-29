@@ -1,0 +1,10 @@
+<?php 
+require('colors.php');
+require('typografy.php'); 
+require('buttons.php');
+require('navs.php');
+//require('acordion.php');
+//require('slider.php');
+require('images.php');
+require('cards/cards-index.php');
+?>

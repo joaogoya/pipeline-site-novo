@@ -1,0 +1,8 @@
+# Ignorar dependências do Node.js
+node_modules/
+
+# Ignorar configurações do Visual Studio Code
+.vscode/
+
+# Ignorar a pasta de templates
+assets/template/

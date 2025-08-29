@@ -1,0 +1,46 @@
+﻿
+/*  
+Theme Name: Pipeline Digital
+Theme URI: http://pipeline-digital.com.br/
+Description: Tema basico do wordpress.
+Author: Pipeline Digital
+Author URI: pipeline-digital.com.br
+Version: 1.0
+Tags: pipeline
+Text Domain: Tema wordpress
+*/
+
+/*navbar*/
+
+header .mainmenu-area .main-menu .logo img{
+    width: 60px;
+    height: auto;
+}
+
+/*fim nax bar*/
+
+.banner-section.banner-style-three .single-banner .banner-text b{
+    font-size: 24px;
+    text-shadow: 1px 1px #041d38;
+}
+
+
+.services-secton .services-loop .single-service .icon img{
+    width: 98px;
+    height: auto;
+}
+
+
+
+.contact-section{
+    background-color: #f7fcff;
+}
+
+
+.about-section .experience-tag img{
+    width: 60%;
+}
+
+.about-section .about-img img{ 
+    width: 80%;
+}
